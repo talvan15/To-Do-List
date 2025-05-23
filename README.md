@@ -1,50 +1,26 @@
-# Welcome to your Expo app 👋
+# 📝 To-Do List App
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+Aplicativo de lista de tarefas desenvolvido em **React Native** com **Expo** e **TypeScript**
 
-## Get started
+## 📱 Funcionalidades
 
-1. Install dependencies
+- Adicionar tarefas
+- Marcar tarefas como concluídas
+- Remover tarefas
+- Exibição de contagem de tarefas criadas e concluídas
+- Design limpo e intuitivo
 
-   ```bash
-   npm install
-   ```
+## 🛠️ Tecnologias
 
-2. Start the app
+- [React Native](https://reactnative.dev/)
+- [Expo](https://expo.dev/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [React Hooks](https://reactjs.org/docs/hooks-intro.html)
+- [Figma (para UI/UX)](https://www.figma.com)
 
-   ```bash
-   npx expo start
-   ```
+## ✨ Design
 
-In the output, you'll find options to open the app in a
+O visual do aplicativo foi cuidadosamente planejado no Figma, com uma interface moderna, limpa e centrada na experiência do usuário.
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+🎨 **Protótipo no Figma**:  
+[Acessar o Design no Figma →](https://www.figma.com/design/oFBtPkpRhjSYE3sLDy8juC/Lista-de-Tarefas?node-id=0-1&p=f&t=SwIa1Oo1wVl0xRuW-0)
